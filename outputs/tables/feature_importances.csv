@@ -1,0 +1,11 @@
+kenmerk,importance
+fare,0.2681
+sex_female,0.2532
+age,0.2492
+pclass,0.0845
+family_size,0.0482
+sibsp,0.0278
+embarked_S,0.0242
+parch,0.0225
+is_alone,0.0124
+embarked_Q,0.01

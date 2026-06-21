@@ -1,0 +1,16 @@
+variabele,dtype,meetniveau,beschrijving
+survived,int64,binair,"Overleefd (0=nee, 1=ja)"
+pclass,int64,ordinaal,"Passagiersklasse (1, 2, 3)"
+sex,str,nominaal,Geslacht
+age,float64,continu,Leeftijd in jaren
+sibsp,int64,discreet,Aantal broers/zussen/partners aan boord
+parch,int64,discreet,Aantal ouders/kinderen aan boord
+fare,float64,continu,Ticketprijs
+embarked,str,nominaal,"Haven van inscheping (C, Q, S)"
+class,str,ordinaal,Passagiersklasse (tekstueel)
+who,str,nominaal,Categorie (man/vrouw/kind)
+adult_male,bool,binair,Volwassen man (waar/onwaar)
+deck,str,nominaal,Dek (grotendeels ontbrekend)
+embark_town,str,nominaal,Stad van inscheping
+alive,str,binair,Overleefd (tekstueel ja/nee)
+alone,bool,binair,Reisde alleen (waar/onwaar)
